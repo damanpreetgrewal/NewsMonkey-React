@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/newsapp/static/css/main.a4a20492.chunk.css",
-    "main.js": "/newsapp/static/js/main.e6da6466.chunk.js",
-    "main.js.map": "/newsapp/static/js/main.e6da6466.chunk.js.map",
-    "runtime-main.js": "/newsapp/static/js/runtime-main.8a1b18f6.js",
-    "runtime-main.js.map": "/newsapp/static/js/runtime-main.8a1b18f6.js.map",
-    "static/js/2.9d27e4a2.chunk.js": "/newsapp/static/js/2.9d27e4a2.chunk.js",
-    "static/js/2.9d27e4a2.chunk.js.map": "/newsapp/static/js/2.9d27e4a2.chunk.js.map",
-    "static/js/3.1686862b.chunk.js": "/newsapp/static/js/3.1686862b.chunk.js",
-    "static/js/3.1686862b.chunk.js.map": "/newsapp/static/js/3.1686862b.chunk.js.map",
-    "index.html": "/newsapp/index.html",
-    "static/css/main.a4a20492.chunk.css.map": "/newsapp/static/css/main.a4a20492.chunk.css.map",
-    "static/js/2.9d27e4a2.chunk.js.LICENSE.txt": "/newsapp/static/js/2.9d27e4a2.chunk.js.LICENSE.txt"
+    "main.css": "/NewsMonkey-React/static/css/main.a4a20492.chunk.css",
+    "main.js": "/NewsMonkey-React/static/js/main.e6da6466.chunk.js",
+    "main.js.map": "/NewsMonkey-React/static/js/main.e6da6466.chunk.js.map",
+    "runtime-main.js": "/NewsMonkey-React/static/js/runtime-main.ad4b6155.js",
+    "runtime-main.js.map": "/NewsMonkey-React/static/js/runtime-main.ad4b6155.js.map",
+    "static/js/2.9d27e4a2.chunk.js": "/NewsMonkey-React/static/js/2.9d27e4a2.chunk.js",
+    "static/js/2.9d27e4a2.chunk.js.map": "/NewsMonkey-React/static/js/2.9d27e4a2.chunk.js.map",
+    "static/js/3.1686862b.chunk.js": "/NewsMonkey-React/static/js/3.1686862b.chunk.js",
+    "static/js/3.1686862b.chunk.js.map": "/NewsMonkey-React/static/js/3.1686862b.chunk.js.map",
+    "index.html": "/NewsMonkey-React/index.html",
+    "static/css/main.a4a20492.chunk.css.map": "/NewsMonkey-React/static/css/main.a4a20492.chunk.css.map",
+    "static/js/2.9d27e4a2.chunk.js.LICENSE.txt": "/NewsMonkey-React/static/js/2.9d27e4a2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8a1b18f6.js",
+    "static/js/runtime-main.ad4b6155.js",
     "static/js/2.9d27e4a2.chunk.js",
     "static/css/main.a4a20492.chunk.css",
     "static/js/main.e6da6466.chunk.js"
